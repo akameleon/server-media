@@ -1,0 +1,50 @@
+{
+    "server_name": "mineplanet",
+    "nice_name": "MinePlanet",
+    "direct_ip": "play.mineplanet.hu",
+    "server_wildcards": [
+      "%.mineplanet.hu",
+      "%.elixircraft.hu",
+      "%.elixircraft.eu",
+      "%.minevillage.hu",
+      "%.mineplanet.gay"
+    ],
+    "supported_languages": [
+       "hu"
+    ],
+    "social": {
+      "web": "https://mineplanet.hu",
+      "web_shop": "https://ucp.mineplanet.hu",
+      "tiktok": "https://tiktok.com/@mineplanet.hu",
+      "discord": "https://discord.gg/GrmhrFWJtW"
+    },
+    "gamemodes": {
+      "fullpvp": {
+        "name": "FullPvP", 
+        "color": "#4dff8e",
+        "command": "/server FullPvP",
+        "versions": "1.8<*"
+      },
+      "kingdoms": {
+        "name": "Kingdoms",
+        "color": "#a166ff",
+        "command": "/server Kingdoms",
+        "versions": "1.18.2<*"
+      },
+      "creative": {
+        "name": "Kreatív",
+        "color": "#e6c337",
+        "command": "/server Kreatív",
+        "versions": "1.18.2<*"
+      }
+    },
+    "discord": {
+      "server_id": 1045774218421354516,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+       "city": "Falkenstein",
+       "country": "Germany",
+       "country_code": "DE"
+    }
+}
